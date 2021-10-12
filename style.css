@@ -1,7 +1,7 @@
 html {
     align-items: center;
     background-color: #2B3544;
-    color: #FFFFFF;
+    color: #d3d8e4;
     display: flex;
     font: 18px/1 "JetBrains Mono NF";
     height: 100%;
@@ -12,7 +12,7 @@ body {
     background-color: #344055;
     box-shadow: 0px 0px 9px #1d1f2187;
     border-radius: 6px;
-    color: #FFFFFF;
+    color: #d3d8e4;
     display: flex;
     flex-direction: column;
     justify-content: center;
