@@ -26,7 +26,7 @@ p {
 }
 
 p span {
-    color: #EBCB8B;
+    color: #68E5F2;
 }
 
 a {
@@ -36,7 +36,7 @@ a {
 
 a:focus,
 a:hover {
-    color: #EBCB8B;
+    color: #A671C7;
 }
 
 ul {
@@ -54,7 +54,7 @@ nav {
 
 
 p #cursor {
-    background-color: #EBCB8B;
+    background-color: #68E5F2;
     animation: blink 2s infinite;
 }
 
