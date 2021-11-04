@@ -3,7 +3,7 @@ html {
     background-color: #2B3544;
     color: #d3d8e4;
     display: flex;
-    font: 18px/1 "JetBrains Mono NF";
+    font: 18px/1 "JetBrainsMono NF";
     height: 100%;
     justify-content: center;
 }
